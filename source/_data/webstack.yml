@@ -45,7 +45,11 @@ videoTools:
   - name: 短视频解析
     url: https://api.spapi.cn/
     img: /images/logos/dsp.png
-    description: 短视频平台通用解析，引用api.spapi.cn。
+    description: 短视频平台通用解析，引自api.spapi.cn。
+  - name: 音乐解析
+    url: https://www.musicjx.com/
+    img: /images/logos/yy.png
+    description: 音乐平台通用解析，引自musicjx.com。
 devTools:
   - name: Github
     url: https://github.com/
@@ -54,7 +58,7 @@ devTools:
   - name: Html/JavaScript格式化
     url: https://api.spapi.cn/html.html
     img: /images/logos/htja.png
-    description: Html/JavaScript代码格式化，引用api.spapi.cn。
+    description: Html/JavaScript代码格式化，引自api.spapi.cn。
 myBlog:
   - name: AC Blog
     url: https://acr1m.com/
