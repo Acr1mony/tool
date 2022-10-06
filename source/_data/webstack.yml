@@ -51,7 +51,10 @@ devTools:
     url: https://github.com/
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
-
+  - name: Html/JavaScript格式化
+    url: https://api.spapi.cn/html.html
+    img: /images/logos/htja.png
+    description: Html/JavaScript代码格式化，引用api.spapi.cn。
 myBlog:
   - name: AC Blog
     url: https://acr1m.com/
