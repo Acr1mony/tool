@@ -29,8 +29,11 @@ githubCorner: '<a href="https://github.com/Acr1mony" class="github-corner" aria-
 expandAll: false
 menu:
   - name: 视频工具
-    icon: far fa-star
+    icon: fa fa-video
     config: videoTools
+  - name: 网站建设
+    icon: fas fa-star
+    config: siteTools
   - name: 其他工具
     icon: fas fa-tools
     submenu:
@@ -50,6 +53,19 @@ videoTools:
     url: https://www.musicjx.com/
     img: /images/logos/yy.png
     description: 音乐平台通用解析，引自musicjx.com。
+siteTools:
+  - name: Hexo
+    url: https://hexo.io/
+    img: /images/logos/hexo.png
+    description: 快速、简洁且高效的博客框架。
+  - name: Netlify
+    url: https://netlify.com/
+    img: /images/logos/netlify.png
+    description: 提供静态网站托管，从仓库拉取代码进行项目打包部署。
+  - name: Cloudflare
+    url: https://cloudflare.com/
+    img: /images/logos/cloudflare.png
+    description: 一体化全球云网络，提供云加速CDN服务。
 devTools:
   - name: Github
     url: https://github.com/
