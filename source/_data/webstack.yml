@@ -53,6 +53,10 @@ videoTools:
     url: https://www.musicjx.com/
     img: /images/logos/yy.png
     description: 音乐平台通用解析，引自musicjx.com。
+  - name: B站直播弹幕查询
+    url: https://danmaku.suki.club/
+    img: /images/logos/danmaku.png
+    description: 哔哩哔哩直播站主播数据查询，用户弹幕综合查询。
 siteTools:
   - name: Hexo
     url: https://hexo.io/
