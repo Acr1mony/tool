@@ -45,6 +45,10 @@ menu:
         config: myBlog
 
 videoTools:
+  - name: 视频平台解析
+    url: https://bilibili.iiilab.com/
+    img: /images/logos/danmaku.png
+    description: 视频平台通用解析，可解析A站B站Youtube等。
   - name: 短视频解析
     url: https://api.spapi.cn/
     img: /images/logos/dsp.png
