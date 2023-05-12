@@ -34,6 +34,9 @@ menu:
   - name: 网站建设
     icon: fas fa-star
     config: siteTools
+  - name: 文本编辑
+    icon: fas fa-star
+    config: wordTools
   - name: 其他工具
     icon: fas fa-tools
     submenu:
@@ -58,7 +61,7 @@ videoTools:
     img: /images/logos/yy.png
     description: 音乐平台通用解析，引自musicjx.com。
   - name: B站直播弹幕查询
-    url: https://danmaku.suki.club/
+    url: https://danmakus.com/
     img: /images/logos/danmaku.png
     description: 哔哩哔哩直播站主播数据查询，用户弹幕综合查询。
 siteTools:
@@ -74,6 +77,11 @@ siteTools:
     url: https://cloudflare.com/
     img: /images/logos/cloudflare.png
     description: 一体化全球云网络，提供云加速CDN服务。
+wordTools:
+  - name: PDF转图片
+    url: http://www.pdfdo.com/pdf-to-image.aspx
+    img: /images/logos/pdf1.png
+    description: PDF在线转为图片，可选多种图片格式。
 devTools:
   - name: Github
     url: https://github.com/
