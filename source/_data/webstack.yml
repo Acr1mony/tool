@@ -34,9 +34,9 @@ menu:
   - name: 网站建设
     icon: fas fa-star
     config: siteTools
-  - name: 文本编辑
+  - name: 转换工具
     icon: fas fa-star
-    config: wordTools
+    config: tranTools
   - name: 其他工具
     icon: fas fa-tools
     submenu:
@@ -77,7 +77,11 @@ siteTools:
     url: https://cloudflare.com/
     img: /images/logos/cloudflare.png
     description: 一体化全球云网络，提供云加速CDN服务。
-wordTools:
+tranTools:
+  - name: 万能格式转换
+    url: http://www.zamzar.com
+    img: /images/logos/zamzar.png
+    description: 万能格式在线转换，你想要的它都有。
   - name: PDF转图片
     url: http://www.pdfdo.com/pdf-to-image.aspx
     img: /images/logos/pdf1.png
